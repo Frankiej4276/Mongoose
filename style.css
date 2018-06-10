@@ -1,0 +1,10 @@
+html {
+    position: relative;
+}
+body {
+    margin-bottom: 60 px
+}
+.footer {
+    bottom: 0;
+    position: absolute;
+}
